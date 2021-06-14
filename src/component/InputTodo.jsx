@@ -1,9 +1,9 @@
 import React from "react";
 
 const style = {
-  background: "#c6ffe2",
+  background: "#c1ffff",
   width: "400px",
-  minHeight: " 200px",
+  height: "30px",
   padding: "8px",
   margin: "8px",
   borderRadius: "8px"

@@ -21,15 +21,14 @@ li {
   margin-right: 8px;
 }
 
-.input-area {
-  background: #c1ffff;
+.incomplete-area {
+  background: #c6ffe2;
   width: 400px;
-  height: 30px;
+  min-height: 200px;
   padding: 8px;
   margin: 8px;
   border-radius: 8px;
 }
-
 .complete-area {
   background: #ffffe0;
   width: 400px;
